@@ -101,7 +101,7 @@ Texto
 <summary><b>🔥 Estatísticas Sequenciais</b></summary>
 <br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=bush1D3v&theme=radical&hide_border=true" alt="bush1D3v" width="390"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=bush1D3v&theme=radical&hide_border=true" alt="CaioRibeiro551" width="390"/>
 </p>
 </details>
   
@@ -112,13 +112,13 @@ Texto
 <summary><b>⚡ Status Públicos do Github</b></summary>
 <br>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bush1D3v&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bush1D3v&layout=compact&langs_count=6&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioRibeiro551&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioRibeiro551&layout=compact&langs_count=6&theme=radical"/>
 </p>
 </details>
 
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=bush1D3v&repo=bush1D3v&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Victor" height="40px" />
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=CaioRibeiro551&repo=CaioRibeiro551&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="Contador de Visitas do Perfil no Github do Victor" height="40px" />
 </div>
 
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
