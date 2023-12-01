@@ -101,7 +101,7 @@ Texto
 <summary><b>🔥 Estatísticas Sequenciais</b></summary>
 <br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=bush1D3v&theme=radical&hide_border=true" alt="CaioRibeiro551" width="390"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=CaioRibeiro551&theme=radical&hide_border=true" alt="CaioRibeiro551" width="390"/>
 </p>
 </details>
   
