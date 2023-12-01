@@ -1,6 +1,6 @@
 
 <p align="center">
-Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver aplicativos da Web escaláveis, de fácil manutenção e fáceis de usar que forneçam uma experiência de usuário perfeita. Estou constantemente aprendendo e experimentando novas tecnologias e frameworks para encontrar as melhores soluções para os problemas em questão.
+Texto
 </p>
 
 ##
@@ -16,13 +16,7 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 - 🌱 Atualmente estou aprendendo **Princípios de Desenvolvimento**.
 
-- 🔍 Dê uma olhada nos meus pojetos do [**Frontend Mentor**](https://www.frontendmentor.io/profile/bush1D3v)!
-
-- 📫 Como me contatar: **victor.jose.lopes.navarro@gmail.com**.
-
-- 💬 Me pergunte sobre **JavaScript**.
-
-- 🤝 Estou procurando ajuda para aprender sobre **Sites Acessíveis**.
+- 📫 Como me contatar: **Caio.h.r@outlook.com**.
 
 <br>
 <br>
@@ -30,16 +24,16 @@ Sou um estudante apaixonado por programação web. Meu objetivo é desenvolver a
 
 ## 🎯 Metas Futuras
 
-- 🧠 Estudar os fundamentos de um **Desenvolvedor Web FullStack de Sucesso**.
-- 🌟 Compartilhar meu conhecimento e experiências, ensinando e orientando outras pessoas na comunidade de tecnologia.
-- 🤖 Construir um projeto do zero que influencie mais pessoas para o mundo da tecnologia, da mesma forma como eu fui.
+- 🧠
+- 🌟
+- 🤖
 
 ## 📈 Conquistas
 
-- ☕ Desde 2023 com **Estudos Focados**, sem parar um dia.
-- 🤝 Diversos certificados na área, como cursos do **Curso em Vídeo, Hashtag Programação, Dev Quest, DIO e Cubos Academy**.
-- 🏆 Fui selecionado para participar do **Bootcamp Santander** e passei no processo seletivo de uma **Bolsa do Ifood**.
-- 🎉 Primeiro emprego dev com **8 meses de estudos** em uma das **maiores empresas de software** do Brasil, a **Nasajon**.
+- ☕ 
+- 🤝
+- 🏆 
+- 🎉 
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
 
