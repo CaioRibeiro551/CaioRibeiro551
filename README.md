@@ -39,11 +39,9 @@ Texto
 
 <div align = "center">
 
-<a href="https://api.whatsapp.com/send/?phone=5521995727079" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-green?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>&nbsp;
-<a href="https://www.linkedin.com/in/vj021/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-[![Gmail: Victor Navarro](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:victor.jose.lopes.navarro@gmail.com)](mailto:victor.jose.lopes.navarro@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-593D88?style=for-the-badge&logo=frontendmentor&logoColor=white&link=https://www.frontendmentor.io/profile/bush1D3v)](https://www.frontendmentor.io/profile/bush1D3v)&nbsp;
-<a href="https://discord.com/users/443480311066656770" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
+<a href="https://api.whatsapp.com/send/?phone=5516992242447" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-green?style=for-the-badge&logo=WhatsApp&logoColor=white"></a>&nbsp;
+<a href="https://www.linkedin.com/in/caiohr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
   
 </div>
 
