@@ -1,4 +1,4 @@
-![Capa Github](https://ibb.co/Yj2nrb0)
+
 <p align="center">
 Texto
 </p>
