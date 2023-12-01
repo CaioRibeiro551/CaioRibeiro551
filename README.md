@@ -1,6 +1,6 @@
 
 <p align="center">
-Texto
+Apaixonado por tecnologia e desenvolvimento de software, estou sempre em busca de desafios empolgantes para aprimorar minhas habilidades. Atualmente, concentro-me  no desenvolvimento web.
 </p>
 
 ##
