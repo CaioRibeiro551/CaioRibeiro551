@@ -1,4 +1,6 @@
+![Capa Github]()
 
+<p align="center">
 <p align="center">
 🚀 Sou desenvolvedor de Software desde 2023,atualmente estou com meu foco em TypeScript, e aprimorando dia a dia minhas habilidades em novas tecnologias utilizando SOLID e Clean code.
 </p>
