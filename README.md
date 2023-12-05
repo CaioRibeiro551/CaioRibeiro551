@@ -24,16 +24,15 @@
 
 ## 🎯 Metas Futuras
 
-- 🧠
-- 🌟
-- 🤖
+- 🧠 Desenvolvedor Júnior 
+- 🌟 Colaborar com projetos grandes que impactem a vida de muitas pessoas
+- 🤖 Ser exemplo para outras pessoas 
 
 ## 📈 Conquistas
 
-- ☕ 
-- 🤝
-- 🏆 
-- 🎉 
+- 🏆  Bootcamp de 10 meses pela Cubos Academy (1167h)
+- 🤝 Base de projetos e trabalhos em equipe
+
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
 
