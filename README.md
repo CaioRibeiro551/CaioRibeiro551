@@ -1,8 +1,9 @@
-![Capa Github](https://github.com/CaioRibeiro551/CaioRibeiro551/assets/65637121/44cefb5b-9cd1-4935-bc1a-5fbc772b4ad3)
+![Capa Github](https://github.com/CaioRibeiro551/CaioRibeiro551/assets/65637121/ee190e75-7bd4-4c70-8c3b-6fb2e9675854)
+
 
 <p align="center">
 <p align="center">
-🚀 Sou desenvolvedor de Software desde 2023,atualmente estou com meu foco em TypeScript, e aprimorando dia a dia minhas habilidades em novas tecnologias utilizando SOLID e Clean code.
+🚀 Sou desenvolvedor de Software desde 2023,atualmente estou com meu foco em Análise de dados.
 </p>
 
 ##
@@ -14,9 +15,9 @@
 
 <br>
 
-- 🔭 Estou estudando para me **tornar um Desenvolvedor Fullstack**.
+- 🔭 Estou estudando para me **Data Analyst | Desenvolvedor de software**.
 
-- 🌱 Atualmente estou aprendendo **Princípios de Desenvolvimento**.
+- 🌱 Atualmente estou aprendendo **Power Query e Power Pivot para fazer Dashboards**.
 
 - 📫 Como me contatar: **Caio.h.r@outlook.com**.
 
@@ -26,9 +27,9 @@
 
 ## 🎯 Metas Futuras
 
-- 🧠 Desenvolvedor Júnior 
+- 🧠 Data Analyst Júnior 
 - 🌟 Colaborar com projetos grandes que impactem a vida de muitas pessoas
-- 🤖 Ser exemplo para outras pessoas 
+- 🤖 Entregar valor para as pessoas
 
 ## 📈 Conquistas
 
@@ -51,11 +52,26 @@
 <h2 align="center">🛠️ Linguagens e Ferramentas</h2>
 
 <details open>
+<summary><b>🌐 Data Analyst</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)&nbsp;
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+
+
+
+
+</details>
+
+
+<details open>
 <summary><b>🗄️ Database</b></summary>
 <br>
 
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 </details>
 
 <details open>
@@ -82,7 +98,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 </details>
 
 </div>
