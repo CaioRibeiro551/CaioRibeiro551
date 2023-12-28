@@ -1,9 +1,9 @@
-![Capa Github](https://github.com/CaioRibeiro551/CaioRibeiro551/assets/65637121/ee190e75-7bd4-4c70-8c3b-6fb2e9675854)
+![Capa Github](https://github.com/CaioRibeiro551/CaioRibeiro551/assets/65637121/c94e0fcd-f83c-4868-9059-a35e7ec35788)
 
 
 <p align="center">
 <p align="center">
-🚀 Sou desenvolvedor de Software desde 2023,atualmente estou com meu foco em Análise de dados.
+🚀 Sou desenvolvedor de Software desde 2023,atualmente estou com meu foco em  Desenvolvimento Web.
 </p>
 
 ##
@@ -15,9 +15,9 @@
 
 <br>
 
-- 🔭 Estou estudando para me **Data Analyst | Desenvolvedor de software**.
+- 🔭 Desenvolvedor de Software.
 
-- 🌱 Atualmente estou aprendendo **Power Query e Power Pivot para fazer Dashboards**.
+- 🌱 Atualmente estou aprendendo **Tailwind e Angular**.
 
 - 📫 Como me contatar: **Caio.h.r@outlook.com**.
 
@@ -27,9 +27,9 @@
 
 ## 🎯 Metas Futuras
 
-- 🧠 Data Analyst Júnior 
-- 🌟 Colaborar com projetos grandes que impactem a vida de muitas pessoas
-- 🤖 Entregar valor para as pessoas
+- 🧠 Desenvolvedor de sistemas júnior.
+- 🌟 Colaborar com projetos grandes que impactem a vida de muitas pessoas.
+- 🤖 Entregar valor para as pessoas.
 
 ## 📈 Conquistas
 
@@ -50,21 +50,6 @@
 <div align = "center">
 
 <h2 align="center">🛠️ Linguagens e Ferramentas</h2>
-
-<details open>
-<summary><b>🌐 Data Analyst</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)&nbsp;
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-
-
-
-
-
-</details>
 
 
 <details open>
