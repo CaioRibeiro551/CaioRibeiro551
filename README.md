@@ -27,7 +27,7 @@
 
 ## 🎯 Metas Futuras
 
-- 🧠 Desenvolvedor de sistemas júnior.
+- 🧠 Desenvolvedor de software júnior.
 - 🌟 Colaborar com projetos grandes que impactem a vida de muitas pessoas.
 - 🤖 Entregar valor para as pessoas e negócios.
 
