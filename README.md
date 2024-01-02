@@ -29,7 +29,7 @@
 
 - 🧠 Desenvolvedor de sistemas júnior.
 - 🌟 Colaborar com projetos grandes que impactem a vida de muitas pessoas.
-- 🤖 Entregar valor para as pessoas.
+- 🤖 Entregar valor para as pessoas e negócios.
 
 ## 📈 Conquistas
 
