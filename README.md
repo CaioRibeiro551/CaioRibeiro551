@@ -1,4 +1,4 @@
-![Capa Github](https://github.com/CaioRibeiro551/blackjack-v1/assets/65637121/7748dfe3-cfbc-4cfe-9ca8-5bca12b77b53)
+![Capa Github](https://github.com/CaioRibeiro551/blackjack-v1/assets/65637121/bae9d44b-30fb-4852-9a7c-b226b760bd48)
 
 %md
 
