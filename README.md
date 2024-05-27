@@ -5,8 +5,7 @@
 <h3 align="center">Oi 👋, Eu sou Caio Ribeiro</h3>
 Apaixonado por ciência e análise de dados e vou compartilhar um projeto de análise de dados em SQL.
 
-- 🔭 Atualmente estou trabalhando com análise e visualização de dados em meus projetos pessoais. Esse se trata de uma análise de dados sobre o preço dos notebooks no mercado
-
+- 🔭 Atualmente estou trabalhando com análise e visualização de dados em meus projetos pessoais.
 
 - 🌱 Atualmente estou aprendendo **Databricks e SQL**
 
