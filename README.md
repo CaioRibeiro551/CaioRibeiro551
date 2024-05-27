@@ -1,40 +1,31 @@
-![Capa Github](https://github.com/CaioRibeiro551/CaioRibeiro551/assets/65637121/c94e0fcd-f83c-4868-9059-a35e7ec35788)
+![Capa Github](https://github.com/CaioRibeiro551/blackjack-v1/assets/65637121/7748dfe3-cfbc-4cfe-9ca8-5bca12b77b53)
+
+%md
+
+<h3 align="center">Oi 👋, Eu sou Caio Ribeiro</h3>
+Apaixonado por ciência e análise de dados e vou compartilhar um projeto de análise de dados em SQL.
+
+- 🔭 Atualmente estou trabalhando com análise e visualização de dados em meus projetos pessoais. Esse se trata de uma análise de dados sobre o preço dos notebooks no mercado
 
 
-<p align="center">
-<p align="center">
-🚀 Sou desenvolvedor de Software desde 2023,atualmente estou com meu foco em  Desenvolvimento Web.
+- 🌱 Atualmente estou aprendendo **Databricks e SQL**
+
+- 💬 Me pergunte sobre **SQL, Google Data Studio, Power BI, Google Analytics, Excel e Python**
+
+- 📫Você me acha através do e-mail **caio.h.r@outlook.com** ou Meu Linkedin [Linkedin](https://www.linkedin.com/in/caiohr/)
+
+<h4 align="left">Sigam minhas redes:</h4>
+<p align="left">
+  <a href="https://www.linkedin.com/in/caiohr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/caiohr/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/caioh.r/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/caioh.r/" height="30" width="40" /></a>
 </p>
 
-##
+<h4 align="left">Linguagens e ferramentas:</h4>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<br>
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
-
-<br>
-
-- 🔭 Desenvolvedor de Software.
-
-- 🌱 Atualmente estou aprendendo **Tailwind e Angular**.
-
-- 📫 Como me contatar: **Caio.h.r@outlook.com**.
-
-<br>
-<br>
-
-
-## 🎯 Metas Futuras
-
-- 🧠 Desenvolvedor de software júnior.
-- 🌟 Colaborar com projetos grandes que impactem a vida de muitas pessoas.
-- 🤖 Entregar valor para as pessoas e negócios.
-
-## 📈 Conquistas
-
-- 🏆  Bootcamp de 10 meses pela Cubos Academy (1167h)
-- 🤝 Base de projetos e trabalhos em equipe
 
 
 <h2 align="center">📫 Conecte-se Comigo</h2>
@@ -45,48 +36,6 @@
 <a href="https://www.linkedin.com/in/caiohr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;
   
-</div>
-
-<div align = "center">
-
-<h2 align="center">🛠️ Linguagens e Ferramentas</h2>
-
-
-<details open>
-<summary><b>🗄️ Database</b></summary>
-<br>
-
-![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-</details>
-
-<details open>
-<summary><b>🧰 Backend</b></summary>
-<br>
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-</details>
-
-<details open>
-<summary><b>💻 Software and Tools</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/-git-red?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-</details>
-
-<details open>
-<summary><b>🏄‍♂️ Frontend</b></summary>
-<br>
-  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-</details>
-
 </div>
 
 <br>
